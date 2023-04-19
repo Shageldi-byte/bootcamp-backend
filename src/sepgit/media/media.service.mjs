@@ -1,6 +1,5 @@
 import fs from "fs";
 import getMP3Duration from "get-mp3-duration";
-import { response } from "express";
 import { db } from "../../database/connection.mjs";
 import { responseGenerator } from "../../response/app.response.mjs";
 import { badRequest } from "../../response/error.response.mjs";
