@@ -1,0 +1,1 @@
+export const IMAGE_BASE_URL = 'http://216.250.8.128:5665';
